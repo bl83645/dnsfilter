@@ -23,7 +23,6 @@
 ||iadsdk.apple.com^
 @@||safebrowsing.apple^
 @@||aaplimg.com^
-||apple-finance.query.yahoo.com^
 
 !--- SBB ---
 @@/.*sbb.*/$important
