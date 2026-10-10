@@ -24,6 +24,9 @@
 @@||safebrowsing.apple^
 @@||aaplimg.com^
 
+!--- Network Services ---
+@@||whatismyip.akamai.com^
+
 !--- SBB ---
 @@/.*sbb.*/$important
 @@||sbb.ch^
