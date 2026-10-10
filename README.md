@@ -1,0 +1,2 @@
+# dnsfilter
+DNS filter liests
