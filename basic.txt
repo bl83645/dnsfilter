@@ -23,6 +23,7 @@
 ||iadsdk.apple.com^
 @@||safebrowsing.apple^
 @@||aaplimg.com^
+@@||icloud.com^
 
 !--- Network Services ---
 @@||whatismyip.akamai.com^
