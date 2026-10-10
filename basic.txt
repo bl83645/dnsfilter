@@ -58,6 +58,9 @@
 @@||netatmo.com^
 @@||netatmo.net^
 
+!--- Teleboy ---
+||adportal.ch^
+
 !--- Ads, Consent Banners, Tracking & Analytics ---
 ||doubleclick.net^
 ||ippen.media^
@@ -77,5 +80,4 @@
 ||events.mapbox.com^
 ||swissmg-cdn.relevant-digital.com^
 ||dlxjsz.com^
-||adportal.ch^
 ||journiapp.com^
