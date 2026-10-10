@@ -1,0 +1,81 @@
+! DNS Filter List: Basic Rules
+
+!--- Internal Networks ---
+||lan^
+
+!--- Testing ---
+||internetbadguys.com^
+
+!--- Dynamic DNS ---
+@@||duckdns.org^
+@@||spdyn.de^
+@@||spdns.org^
+@@||spdns.eu^
+@@||freeddns.org^
+@@||dynu.com^
+@@||afraid.org^
+
+!--- Security ---
+@@||safebrowsing.google.com^
+
+!--- Apple Services ---
+@@||apple.com^
+||iadsdk.apple.com^
+@@||safebrowsing.apple^
+@@||aaplimg.com^
+||apple-finance.query.yahoo.com^
+
+!--- SBB ---
+@@/.*sbb.*/$important
+@@||sbb.ch^
+@@||fairtiq.com^
+
+!--- Airlines, Transport & Travel ---
+@@||miles-and-more.com^
+@@||milesandmore.tt.omtrdc.net^
+@@||affiliate.klook.com^
+@@||swiss.com^
+@@||lufthansa.slgnt.eu^
+@@||inter-connect.world^
+
+!--- Business, Cloud & Services ---
+@@||ticketmaster.ch^
+@@||3cx.ch^
+@@||securesafe.com^
+@@||exlibris.arc.epoq.de^
+@@||swisscom.ch^
+@@||swisslos.ch^
+@@||gmx.net^
+@@||gmx.ch^
+@@||uicdn.com^
+@@||adobe.io^
+@@||adobe.com^
+@@||adobedtm.com^
+
+!--- Smart Home & Infrastructure ---
+@@||ui.com^
+@@||flightradar24.com^
+@@||netatmo.com^
+@@||netatmo.net^
+
+!--- Ads, Consent Banners, Tracking & Analytics ---
+||doubleclick.net^
+||ippen.media^
+||*iapps.com^
+||glomex.cloud^
+||glomex.com^
+||glotz.online^
+||contentpass.net^
+||appmetrica.yandex.ru^
+||crwdcntrl.net^
+||slatic.net^
+||swissadserver.ch^
+||pagead.l.doubleclick.net^
+||usercentrics.eu^
+||hydraulic-cdn.com^
+||track.pstmrk.it^
+||events.mapbox.com^
+||swissmg-cdn.relevant-digital.com^
+||dlxjsz.com^
+||adportal.ch^
+||journiapp.com^
