@@ -1,0 +1,10 @@
+! DNS Filter List: Server Network
+
+!--- Samsung TV & Cloud Services ---
+@@||samsungqbe.com^
+@@||samsungcloudsolution.com^
+@@||samsungcloudsolution.net^
+@@||samsungcloudcdn.com^
+
+!--- Social Media ---
+||facebook.com^
