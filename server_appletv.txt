@@ -1,0 +1,29 @@
+! DNS Filter List: Server AppleTV
+
+! --- Internal Domains ---
+||lan^
+
+! --- Teleboy ---
+||adportal.ch^
+
+!--- Apple Services ---
+@@||apple.com^
+||iadsdk.apple.com^
+@@||safebrowsing.apple^
+@@||aaplimg.com^
+
+! --- Google & YouTube ---
+@@||clients1.google.com^
+@@||googlevideo.com^
+@@||gstatic.com^
+@@||www.google.com^
+@@||ytimg.com^
+@@||youtube-ui.l.google.com^
+@@||youtube.com^
+@@||ocsp.pki.goog^
+
+! --- Streaming ---
+@@||netflix.com^
+
+! --- Advertising & Tracking ---
+||googleadservices.com^
